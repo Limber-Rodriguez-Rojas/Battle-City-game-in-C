@@ -29,6 +29,8 @@ The game has only implemented the first 3 levels of the game for now.
 
 ### Enemies
 
+<img src="Images/tank.png" width="200">
+
 There are 4 kinds of enemies:
 
 1. Gray Enemy
