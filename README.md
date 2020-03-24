@@ -23,6 +23,8 @@ The game has only implemented the first 3 levels of the game for now.
 
 ### Controls
 
+<img src="Images/keyboard.png">
+
 1. Arroy Keys to move
 2. Space to shoot
 3. Esc to exit
