@@ -19,15 +19,15 @@ The game has only implemented the first 3 levels of the game for now.
 
 Map 1
 
-<img src="Images/BattleCity.png">
+<img src="Images/map1.png">
 
 Map 2
 
-<img src="Images/BattleCity.png">
+<img src="Images/ma2.png">
 
 Map 3
 
-<img src="Images/BattleCity.png">
+<img src="Images/map3.png.png">
 
 ### Controls
 
