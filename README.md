@@ -23,7 +23,7 @@ The game has only implemented the first 3 levels of the game for now.
 
 MAP 1 | MAP 2 | MAP 3
 ------------ | ------------- | -------------
-<img src="Images/map1.png" width = "250"> | <img src="Images/ma2.png" width = "250"> | <img src="Images/map3.png" width = "250">
+<img src="Images/map1.png" width = "260"> | <img src="Images/ma2.png" width = "260"> | <img src="Images/map3.png" width = "260">
 
 
 ### Controls
@@ -34,9 +34,9 @@ MAP 1 | MAP 2 | MAP 3
 
 There are 4 kinds of enemies:
 
-1. Gray Enemy
-2. Gray Enemy (fast)
-3. Gray and Red Enemy (fast)
+1. Gray Enemy 
+2. Gray Enemy (faster)
+3. Gray and Red Enemy (faster)
 4. 3 Color Enemy (3 lives)
 
 >**NOTE:** There are only 6 enemies per-level 
