@@ -27,7 +27,7 @@ Map 2
 
 Map 3
 
-<img src="Images/map3.png.png">
+<img src="Images/map3.png">
 
 ### Controls
 
