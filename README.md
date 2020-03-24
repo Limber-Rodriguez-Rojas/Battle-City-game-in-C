@@ -7,6 +7,10 @@ Battle City is a multi-directional shooter video game for the Family Computer pr
 
 I developed a version in C using the SDL graphic library.
 
+## Demo
+
+[Youtube Video](https://www.youtube.com/watch?v=QQdxiQNExBM&t=1s "Youtube Video")
+
 This is meant to be an educational project to learn about the use of the SDL graphic library
 
 >     Make sure you have already installed SDL 1.2 library on your PC to compile it! 
@@ -17,17 +21,10 @@ __________________
 
 The game has only implemented the first 3 levels of the game for now.
 
-Map 1
+MAP 1 | MAP 2 | MAP 3
+------------ | ------------- | -------------
+<img src="Images/map1.png" width = "250"> | <img src="Images/ma2.png" width = "250"> | <img src="Images/map3.png" width = "250">
 
-<img src="Images/map1.png">
-
-Map 2
-
-<img src="Images/ma2.png">
-
-Map 3
-
-<img src="Images/map3.png">
 
 ### Controls
 
