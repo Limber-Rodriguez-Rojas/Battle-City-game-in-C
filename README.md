@@ -17,9 +17,17 @@ __________________
 
 The game has only implemented the first 3 levels of the game for now.
 
->**NOTE:** There are only 6 enemies per-level 
->
->>2 sets of 3 enemies per map
+Map 1
+
+<img src="Images/BattleCity.png">
+
+Map 2
+
+<img src="Images/BattleCity.png">
+
+Map 3
+
+<img src="Images/BattleCity.png">
 
 ### Controls
 
@@ -27,11 +35,13 @@ The game has only implemented the first 3 levels of the game for now.
 
 ### Enemies
 
-<img src="Images/tank.png" width="200">
-
 There are 4 kinds of enemies:
 
 1. Gray Enemy
 2. Gray Enemy (fast)
 3. Gray and Red Enemy (fast)
 4. 3 Color Enemy (3 lives)
+
+>**NOTE:** There are only 6 enemies per-level 
+>
+>>2 sets of 3 enemies per map
