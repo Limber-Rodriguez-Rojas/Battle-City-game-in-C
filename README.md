@@ -9,7 +9,7 @@ I developed a version in C using the SDL graphic library.
 
 ## Demo
 
-[Youtube Video](https://www.youtube.com/watch?v=QQdxiQNExBM&t=1s "Youtube Video")
+[Youtube Video](https://www.youtube.com/watch?v=QQdxiQNExBM "Youtube Video")
 
 This is meant to be an educational project to learn about the use of the SDL graphic library
 
